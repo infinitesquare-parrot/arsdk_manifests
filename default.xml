@@ -9,6 +9,7 @@
     <linkfile src="common/scripts/build.sh" dest="build.sh"/>
  </project>
 
+ <project name="arsdk_msbuild" path="msbuild"/>
  <!-- External -->
   <project name="ARSDKTools" path="packages/ARSDKTools"/>
 
@@ -30,5 +31,4 @@
 
  <!-- Samples -->
  <project name="Samples" path="packages/Samples"/>
-
 </manifest>
